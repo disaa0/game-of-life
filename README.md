@@ -10,7 +10,7 @@ To run this game, you'll need Python 3 and Pygame installed on your system. To i
 
 Once you have Pygame installed, you can run the game with:
 
-``python game.py``
+``python app.py``
 
 # Controls
 - Click and drag to add or remove cells
